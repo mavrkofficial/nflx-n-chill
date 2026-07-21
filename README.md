@@ -6,6 +6,9 @@ stock.
 
 ![Brand guide](brand-guide/branding-guide.png)
 
+> 📈 **[Daily $CHILL Shareholder Report →](daily-holder-report/)** — our progress
+> toward acquiring a controlling interest in NFLX, updated automatically every day.
+
 ## Palette
 
 | Role | Color | Hex | RGB |
