@@ -256,6 +256,35 @@ def card(m):
     p = os.path.join(OUT, "shareholder-card.png")
     img.save(p); return p
 
+def write_json(m):
+    CDN = "https://cdn.jsdelivr.net/gh/mavrkofficial/nflx-n-chill@main/daily-holder-report"
+    data = {
+        "updated": m["ts"], "date": m["date"], "block": m["block"],
+        "goal_nflx": GOAL, "nflx_shares_outstanding": SHARES_OUTSTANDING_NFLX,
+        "chill_supply": CHILL_SUPPLY,
+        "nflx_controlled": round(m["controlled"], 4),
+        "nflx_in_lp": round(m["net_lp"], 4),
+        "reflections_nflx": round(m["reflections"], 4),
+        "usd_controlled": round(m["usd_controlled"], 2),
+        "stake_pct_of_netflix": m["stake_pct"],
+        "progress_pct_to_majority": m["progress"],
+        "remaining_nflx": round(m["remaining"], 2),
+        "holders": m["holders"], "lifetime_participants": m["traders"],
+        "market_cap_usd": round(m["mcap"], 2),
+        "chill_price_usd": m["chill_usd"], "nflx_price_usd": round(m["nflx_usd"], 4),
+        "volume_24h_usd": round(m["usd_vol24"], 2), "net_nflx_24h": round(m["net24"], 4),
+        "reflections_24h_nflx": round(m["refl24"], 4),
+        "price_change_24h_pct": (round(m["chg24"], 2) if m["chg24"] is not None else None),
+        "lifetime_volume_nflx": round(m["vol"], 2),
+        "swaps": m["swaps"], "buys": m["buys"], "sells": m["sells"],
+        "days_since_launch": m["days_live"],
+        "card_png": f"{CDN}/shareholder-card.png",
+        "history_csv": f"{CDN}/history.csv",
+        "disclaimer": "Parody token. Not affiliated with or endorsed by Netflix, Inc. Not financial advice.",
+    }
+    with open(os.path.join(OUT, "latest.json"), "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2)
+
 def append_history(m):
     fp = os.path.join(OUT, "history.csv")
     cols = ["date", "controlled_nflx", "treasury_nflx", "dividends_nflx", "stake_pct",
@@ -278,6 +307,7 @@ if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     m = compute()
     open(os.path.join(OUT, "README.md"), "w", encoding="utf-8").write(markdown(m))
+    write_json(m)
     append_history(m)
     try:
         card(m); print("card ok")
