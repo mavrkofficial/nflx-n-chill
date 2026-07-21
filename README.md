@@ -43,7 +43,7 @@ DISCLAIMER.md   legal disclaimer text for site footer / socials
 
 - **Website:** https://nflxandchill.com
 - **Telegram:** https://t.me/chillportaltg
-- **Trade:** sentry.trading
+- **Trade:** create an account at sentry.trading — or trade with no account at sentry.trading/swap
 - **Chain:** Robinhood Chain (id 4663)
 - **Contract:** `0xF699AEA8a333202A7Dc610aBc664c213c9dc4111`
 - **Base pair:** NFLX (tokenized) `0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8`
