@@ -30,10 +30,10 @@
 
 | Metric | Value |
 |---|---|
-| Trading volume | 112.50 NFLX (~$7,710) |
-| Net NFLX accumulated | -14.83 NFLX |
-| Dividends generated | 1.1250 NFLX |
-| Transactions | 99 (64 buys / 35 sells) |
+| Trading volume | 111.59 NFLX (~$7,647) |
+| Net NFLX accumulated | -13.91 NFLX |
+| Dividends generated | 1.1159 NFLX |
+| Transactions | 98 (64 buys / 34 sells) |
 | $CHILL price change | -1.2% |
 
 ## Shareholder & market data
@@ -59,7 +59,7 @@
 
 ---
 
-*Report generated 2026-07-21 20:49 UTC · block 15,863,405 · data via the Sentry-Robinhood
+*Report generated 2026-07-21 20:51 UTC · block 15,864,120 · data via the Sentry-Robinhood
 subgraph and Robinhood Chain explorer.*
 
 **Disclaimer:** $CHILL is an independent, community-driven **parody** token. It is
