@@ -1,6 +1,6 @@
 # $CHILL — Daily Shareholder Report
 
-### Netflix and Chill · Report to Shareholders · 2026-10-01
+### Netflix and Chill · Report to Shareholders · 2026-10-02
 
 > **Corporate objective:** acquire a controlling interest in Netflix (NFLX).
 > Netflix has **4,220,000,000** shares outstanding; a majority
@@ -13,8 +13,8 @@
 
 | Metric | Value |
 |---|---|
-| **NFLX under $CHILL control** | **168.22 NFLX** (~$11,676) |
-| Stake in Netflix | 0.000003986% of shares outstanding |
+| **NFLX under $CHILL control** | **167.97 NFLX** (~$11,223) |
+| Stake in Netflix | 0.000003980% of shares outstanding |
 | Progress to controlling interest | 0.0000079% of 2,120,000,000 |
 | Shares remaining to majority | 2,119,999,832 NFLX |
 
@@ -22,44 +22,44 @@
 
 | Holding | NFLX | USD |
 |---|---|---|
-| Treasury (protocol-owned liquidity) | 48.61 | $3,374 |
-| Dividends distributed to shareholders | 119.61 | $8,302 |
-| **Total NFLX controlled** | **168.22** | **$11,676** |
+| Treasury (protocol-owned liquidity) | 48.35 | $3,230 |
+| Dividends distributed to shareholders | 119.62 | $7,993 |
+| **Total NFLX controlled** | **167.97** | **$11,223** |
 
 ## Last 24 hours
 
 | Metric | Value |
 |---|---|
-| Trading volume | 1.89 NFLX (~$131) |
-| Net NFLX accumulated | -1.29 NFLX |
-| Dividends generated | 0.0189 NFLX |
-| Transactions | 2 (1 buys / 1 sells) |
-| $CHILL price change | -7.5% |
+| Trading volume | 0.92 NFLX (~$62) |
+| Net NFLX accumulated | -0.26 NFLX |
+| Dividends generated | 0.0092 NFLX |
+| Transactions | 3 (1 buys / 2 sells) |
+| $CHILL price change | -3.3% |
 
 ## Shareholder & market data
 
 | Metric | Value |
 |---|---|
 | Shareholders of record | n/a |
-| Lifetime unique participants | 1815 |
+| Lifetime unique participants | 1816 |
 | Shares outstanding ($CHILL) | 1,000,000,000 |
-| Market capitalization | $19,126 |
-| $CHILL price | $0.00001913 |
-| NFLX price | $69.41 |
-| Lifetime volume | 11,961.19 NFLX (~$830,209) |
-| Lifetime transactions | 8,582 (4,804 buys / 3,778 sells) |
-| Days since IPO (launch) | 74 |
+| Market capitalization | $18,631 |
+| $CHILL price | $0.00001863 |
+| NFLX price | $66.82 |
+| Lifetime volume | 11,962.12 NFLX (~$799,266) |
+| Lifetime transactions | 8,585 (4,805 buys / 3,780 sells) |
+| Days since IPO (launch) | 75 |
 
 ## Per-share metrics
 
 | Metric | Value |
 |---|---|
-| NFLX backing per 1M $CHILL | 0.168223 NFLX |
-| Dividends per 1M $CHILL | 0.119612 NFLX |
+| NFLX backing per 1M $CHILL | 0.167969 NFLX |
+| Dividends per 1M $CHILL | 0.119621 NFLX |
 
 ---
 
-*Report generated 2026-10-01 19:12 UTC · block 77,615,777 · data via the Sentry-Robinhood
+*Report generated 2026-10-02 18:53 UTC · block 78,460,707 · data via the Sentry-Robinhood
 subgraph and Robinhood Chain explorer.*
 
 **Disclaimer:** $CHILL is an independent, community-driven **parody** token. It is
