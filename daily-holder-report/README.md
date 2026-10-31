@@ -1,6 +1,6 @@
 # $CHILL — Daily Shareholder Report
 
-### Netflix and Chill · Report to Shareholders · 2026-10-30
+### Netflix and Chill · Report to Shareholders · 2026-10-31
 
 > **Corporate objective:** acquire a controlling interest in Netflix (NFLX).
 > Netflix has **4,220,000,000** shares outstanding; a majority
@@ -13,7 +13,7 @@
 
 | Metric | Value |
 |---|---|
-| **NFLX under $CHILL control** | **157.30 NFLX** (~$9,705) |
+| **NFLX under $CHILL control** | **157.30 NFLX** (~$9,939) |
 | Stake in Netflix | 0.000003727% of shares outstanding |
 | Progress to controlling interest | 0.0000074% of 2,120,000,000 |
 | Shares remaining to majority | 2,119,999,843 NFLX |
@@ -22,18 +22,18 @@
 
 | Holding | NFLX | USD |
 |---|---|---|
-| Treasury (protocol-owned liquidity) | 37.45 | $2,311 |
-| Dividends distributed to shareholders | 119.84 | $7,394 |
-| **Total NFLX controlled** | **157.30** | **$9,705** |
+| Treasury (protocol-owned liquidity) | 37.45 | $2,367 |
+| Dividends distributed to shareholders | 119.84 | $7,572 |
+| **Total NFLX controlled** | **157.30** | **$9,939** |
 
 ## Last 24 hours
 
 | Metric | Value |
 |---|---|
-| Trading volume | 1.20 NFLX (~$74) |
-| Net NFLX accumulated | -1.20 NFLX |
-| Dividends generated | 0.0120 NFLX |
-| Transactions | 1 (0 buys / 1 sells) |
+| Trading volume | 0.00 NFLX (~$0) |
+| Net NFLX accumulated | 0.00 NFLX |
+| Dividends generated | 0.0000 NFLX |
+| Transactions | 0 (0 buys / 0 sells) |
 | $CHILL price change | -8.1% |
 
 ## Shareholder & market data
@@ -45,10 +45,10 @@
 | Shares outstanding ($CHILL) | 1,000,000,000 |
 | Market capitalization | $12,023 |
 | $CHILL price | $0.00001202 |
-| NFLX price | $61.70 |
-| Lifetime volume | 11,984.12 NFLX (~$739,384) |
+| NFLX price | $63.19 |
+| Lifetime volume | 11,984.12 NFLX (~$757,232) |
 | Lifetime transactions | 8,624 (4,818 buys / 3,806 sells) |
-| Days since IPO (launch) | 103 |
+| Days since IPO (launch) | 104 |
 
 ## Per-share metrics
 
@@ -59,7 +59,7 @@
 
 ---
 
-*Report generated 2026-10-30 18:56 UTC · block 101,952,985 · data via the Sentry-Robinhood
+*Report generated 2026-10-31 18:06 UTC · block 102,747,925 · data via the Sentry-Robinhood
 subgraph and Robinhood Chain explorer.*
 
 **Disclaimer:** $CHILL is an independent, community-driven **parody** token. It is
