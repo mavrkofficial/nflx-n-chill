@@ -13,7 +13,7 @@
 
 | Metric | Value |
 |---|---|
-| **NFLX under $CHILL control** | **144.36 NFLX** (~$8,380) |
+| **NFLX under $CHILL control** | **144.36 NFLX** (~$8,488) |
 | Stake in Netflix | 0.000003421% of shares outstanding |
 | Progress to controlling interest | 0.0000068% of 2,120,000,000 |
 | Shares remaining to majority | 2,119,999,856 NFLX |
@@ -22,9 +22,9 @@
 
 | Holding | NFLX | USD |
 |---|---|---|
-| Treasury (protocol-owned liquidity) | 24.37 | $1,415 |
-| Dividends distributed to shareholders | 119.99 | $6,965 |
-| **Total NFLX controlled** | **144.36** | **$8,380** |
+| Treasury (protocol-owned liquidity) | 24.37 | $1,433 |
+| Dividends distributed to shareholders | 119.99 | $7,055 |
+| **Total NFLX controlled** | **144.36** | **$8,488** |
 
 ## Last 24 hours
 
@@ -45,10 +45,10 @@
 | Shares outstanding ($CHILL) | 1,000,000,000 |
 | Market capitalization | $6,195 |
 | $CHILL price | $0.00000619 |
-| NFLX price | $58.05 |
-| Lifetime volume | 11,998.58 NFLX (~$696,514) |
+| NFLX price | $58.80 |
+| Lifetime volume | 11,998.58 NFLX (~$705,515) |
 | Lifetime transactions | 8,653 (4,840 buys / 3,813 sells) |
-| Days since IPO (launch) | 127 |
+| Days since IPO (launch) | 128 |
 
 ## Per-share metrics
 
@@ -59,7 +59,7 @@
 
 ---
 
-*Report generated 2026-11-24 01:26 UTC · block 121,858,061 · data via the Sentry-Robinhood
+*Report generated 2026-11-24 23:21 UTC · block 122,600,533 · data via the Sentry-Robinhood
 subgraph and Robinhood Chain explorer.*
 
 **Disclaimer:** $CHILL is an independent, community-driven **parody** token. It is
